@@ -453,6 +453,7 @@ print(f"Reliable Line-of-Sight (LOS) Ratio: {los_pct:.2f}% of observations.")
 print("=" * 70)
     """)
 
+
     # Write notebook file
     output_filename = "Yahav_Alkoby_Assignment1_EDA.ipynb"
     with open(output_filename, "w", encoding="utf-8") as f:
